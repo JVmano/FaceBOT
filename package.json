@@ -1,0 +1,30 @@
+{
+  "name": "facebot",
+  "version": "1.0.0",
+  "description": "Bot that spam messages into a facebook post",
+  "main": "index.js",
+  "scripts": {
+    "start": "dale",
+    "test": "test"
+  },
+  "keywords": [
+    "bot",
+    "facebook",
+    "automation",
+    "anti-cringe"
+  ],
+  "author": "João Vitor",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.4.1",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-stealth": "^2.6.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-standard": "^16.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
