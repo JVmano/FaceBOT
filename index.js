@@ -3,9 +3,9 @@ const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
 // ########### Informações necessárias para comentar ######################
-const user = 'jdefreitasmelo@gmail.com'
-const pass = 'joao88140495'
-const url = 'https://www.facebook.com/joaovitor.freitasmelo/posts/3453113961471098'
+const user = ''
+const pass = ''
+const url = ''
 const comment = 'vrau'
 // ########################################################################
 
